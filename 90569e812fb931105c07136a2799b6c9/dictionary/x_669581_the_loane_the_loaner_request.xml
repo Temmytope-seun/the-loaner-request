@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="3f9b164d2fb931105c07136a2799b650" extends="task" label="The Loaner Request" max_length="40" name="x_669581_the_loane_the_loaner_request" type="collection"/>
+    <element db_object_id="3f9b164d2fb931105c07136a2799b650" extends="task" label="The Loaner Request" max_length="40" name="x_669581_the_loane_the_loaner_request" type="collection">
+        <element attributes="encode_utf8=false" label="Requester" max_length="32" name="u_requester" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requester's manager" max_length="32" name="u_requesters_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Request date" max_length="40" name="u_request_date" type="glide_date_time"/>
+    </element>
 </database>
