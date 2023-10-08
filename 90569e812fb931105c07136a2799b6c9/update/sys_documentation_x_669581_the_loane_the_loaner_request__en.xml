@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="The Loaner Request" language="en" table="x_669581_the_loane_the_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>The Loaner Request</label>
+            <language>en</language>
+            <name>x_669581_the_loane_the_loaner_request</name>
+            <plural>The Loaner Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-08 22:01:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>The Loaner Request</sys_name>
+            <sys_package display_value="The Loaner Request" source="x_669581_the_loane">90569e812fb931105c07136a2799b6c9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="The Loaner Request">90569e812fb931105c07136a2799b6c9</sys_scope>
+            <sys_update_name>sys_documentation_x_669581_the_loane_the_loaner_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-08 22:01:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
